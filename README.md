@@ -1,5 +1,28 @@
 <img width="1556" height="727" alt="image" src="https://github.com/user-attachments/assets/0ab004a8-6fcb-4d5a-93eb-98a71bb21c90" />
 
+#  Enterprise-Scale Network Infrastructure Design  
+### 중·대기업 수준의 네트워크 인프라 아키텍처 설계 프로젝트
+
+> **대형 언론사 와 같은 대규모 트래픽, 장애 대응, 확장성을 전제로 한  
+> 엔터프라이즈급 네트워크 토폴로지 설계**
+
+---
+
+![Enterprise Network Topology](./topology/full_topology.png)
+
+> 위 토폴로지는 단순 실습 환경이 아닌,  
+> **중소기업을 넘어 대기업까지 확장 가능한 규모의  
+> 네트워크 인프라 구조를 가정하여 설계된 아키텍처**이다.
+
+---
+
+## Project Overview
+
+본 프로젝트는  
+**중·대규모 기업 환경을 가정한 IT 네트워크 인프라 설계 프로젝트**로,  
+백본 이중화, 트래픽 분산, 자동 경로 수렴, 인터넷 이중화,  
+그리고 핵심 서비스 고가용성을 중심으로 한  
+**엔터프라이즈급 네트워크 아키텍처 설계 역량을 검증**하는 것을 목표로 한다.
 
 # Enterprise Network Architecture Project  
 ### (DevOps-Oriented Network Design)
